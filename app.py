@@ -1,6 +1,9 @@
 # Display intro to app and how to play game
+print('''Welcome to Hogwarts School of Witchcraft and Wizardry
 
-# show houses in hogwarts
+Motto: Draco Dormiens Nunquam Titillandus 
+
+Enter your details to get sorted into a house in hogwarts by the sorting house.\n''')
 
 # store houses in a list
 
