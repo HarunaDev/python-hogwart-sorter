@@ -9,6 +9,8 @@ Enter your details to get sorted into a house in hogwarts by the sorting house.\
 houses = ["Gryffindor", "Hufflepuff", "Ravenclaw", "Slytherin"]
 
 # get details from users
+name = input("Enter your full name: ")
+location = input("Enter your location")
 
 # loop through the list and select a random house
 
