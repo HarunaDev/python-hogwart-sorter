@@ -6,6 +6,7 @@ Motto: Draco Dormiens Nunquam Titillandus
 Enter your details to get sorted into a house in hogwarts by the sorting house.\n''')
 
 # store houses in a list
+houses = ["Gryffindor", "Hufflepuff", "Ravenclaw", "Slytherin"]
 
 # get details from users
 
